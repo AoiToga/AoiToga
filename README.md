@@ -28,7 +28,7 @@
 ## 
 <br>
 
-<p><img align="left" src="https://media.discordapp.net/attachments/869361557551841300/993525532048228422/rabbit_1.png"          alt="aoitoga" /></p>
+<p><img display="block"; src="https://media.discordapp.net/attachments/869361557551841300/993525532048228422/rabbit_1.png"          alt="aoitoga" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aoitoga&show_icons=true&theme=tokyonight&locale=en" alt="aoitoga" /></p>
 
