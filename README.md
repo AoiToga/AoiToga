@@ -30,12 +30,11 @@
 
 <p><img align="left" src="https://media.discordapp.net/attachments/869361557551841300/993525532048228422/rabbit_1.png" alt="aoitoga" /> <br>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aoitoga&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="aoitoga" /> <br>
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=aoitoga&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="aoitoga" /> <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aoitoga&show_icons=true&theme=tokyonight&locale=en" alt="aoitoga" /> <br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aoitoga&show_icons=true&theme=tokyonight&locale=en" alt="aoitoga" /> <br>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aoitoga&theme=tokyonight" alt="aoitoga" /> <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aoitoga&theme=tokyonight" alt="aoitoga" /> <br>
 </p>
 
 ##
