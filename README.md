@@ -28,11 +28,11 @@
 
 <p><img display="block"; src="https://media.discordapp.net/attachments/869361557551841300/993525532048228422/rabbit_1.png"          alt="aoitoga" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aoitoga&show_icons=true&theme=tokyonight&locale=en" alt="aoitoga" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AoiToga&show_icons=true&theme=aura_dark" alt="AoiToga" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aoitoga&show_icons=true&theme=tokyonight&locale=en" alt="aoitoga" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AoiToga&show_icons=true&theme=aura_dark" alt="AoiToga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aoitoga&theme=tokyonight" alt="aoitoga" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AoiToga&theme=aura_dark" alt="AoiToga" /></p> 
  
 ##
 
