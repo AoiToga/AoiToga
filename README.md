@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nicolas  🌈</h1>
-<h3 align="center">A Junior Front-End developer from Brazil</h3>
+<h3 align="center">A New Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoitoga&label=Profile%20views&color=0e75b6&style=flat" alt="aoitoga" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning: **JavaScript and ReactJS**
+- 🌱 I’m currently learning: **NodeJS** & **SQL Server**
 
-- 🤔 I’m looking for help with: **Front-end development**
+- 🤔 I’m looking for help with: **Back-end development**
 
 - 📫 How to reach me: **nicolasrodrigues.contact7@gmail.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/nicolasasrodrigues/](https://www.linkedin.com/in/nicolasasrodrigues/)
 
 - ⚡ Fun fact: **Tea it's life 🍵**
-
-- 💖 I love doing some random stuffs with **CSS** (_If you have a one, tell me hah_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
