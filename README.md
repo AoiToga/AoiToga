@@ -21,10 +21,7 @@
 <a href="https://linkedin.com/in/nicolasasrodrigues" target="blank">
   <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasasrodrigues"/></a>
 
-<a href="https://twitter.com/TohakyL" target="blank">
-  <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
-
-<a href="https://www.instagram.com/yakitori_toga/" target="blank">
+<a href="https://www.instagram.com/tohaky_law/" target="blank">
   <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
 </p>
 
