@@ -32,7 +32,7 @@
 <h3 align="left">⭐ Languages and Tools:</h3>
 
 <p align="left"> 
-<img height="40" width="40" src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/[ICON SLUG].svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48)"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 
 <img width="40" height="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48)"/>
 
