@@ -28,12 +28,7 @@
 
 <p><img display="block"; src="https://media.discordapp.net/attachments/869361557551841300/993525532048228422/rabbit_1.png"          alt="aoitoga" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AoiToga&show_icons=true&theme=aura_dark"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AoiToga&show_icons=true&theme=aura_dark"" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AoiToga&show_icons=true&theme=aura_dark"" /></p> 
- 
 ##
 
 
