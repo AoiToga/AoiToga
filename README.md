@@ -61,6 +61,8 @@
 
 <p><img display="block"; src="https://media.discordapp.net/attachments/869361557551841300/993525532048228422/rabbit_1.png"          alt="aoitoga" /></p>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AoiToga&theme=radical"/>
+
 
 ##
 
