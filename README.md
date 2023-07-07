@@ -49,27 +49,10 @@
 
 <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
 </p>
-</p>
-
-
-
-
-
-
-## 
 <br>
+
 
 <p><img display="block"; src="https://media.discordapp.net/attachments/869361557551841300/993525532048228422/rabbit_1.png"          alt="aoitoga" /></p>
 
-<p align="left">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AoiToga&theme=radical"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AoiToga&theme=radical"/>
-</p>
-
-
-
-##
-
-
-
 
