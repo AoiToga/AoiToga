@@ -9,10 +9,6 @@
 
 - 🤔 I’m looking for help with: **Back-end development & any tools that might be helpful**
 
-- 📫 How to reach me: **nicolasrodrigues.contact7@gmail.com** & **tohakylaw** (discord, etc).
-
-- 📄 Know about my experiences: [https://www.linkedin.com/in/nicolasasrodrigues/](https://www.linkedin.com/in/nicolasasrodrigues/)
-
 - ⚡ Fun fact: **I just like coding sometimes and drinking a lot of tea ( •̀ ω •́ )**
 
 <h3 align="left">⭐ Connect with me:</h3>
@@ -23,6 +19,9 @@
 
 <a href="https://www.instagram.com/hamburgi_catt/" target="blank">
   <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
+
+  <a href="https://discord.com/channels/@me/279367840073777152/" target="blank">
+  <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/></a>
 </p>
 
 
