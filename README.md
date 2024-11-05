@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact: **I just like coding sometimes and drinking a lot of tea ( •̀ ω •́ )**
 
+<br/>
 <h3 align="left">⭐ Connect with me:</h3>
 
 <p align="left">
@@ -24,7 +25,7 @@
   <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/></a>
 </p>
 
-<br/><br/><br/>
+<br/>
 <h3 align="left">⭐ Languages and Tools:</h3>
 
 <p align="left"> 
