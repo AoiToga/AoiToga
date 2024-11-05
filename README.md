@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning: **Python** & **CyberSecurity**
 
-- 🤔 I’m looking for help with: **Back-end development**
+- 🤔 I’m looking for help with: **Back-end development & any tools that might be helpful**
 
 - 📫 How to reach me: **nicolasrodrigues.contact7@gmail.com** & **tohakylaw** (discord, etc).
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/nicolasasrodrigues/](https://www.linkedin.com/in/nicolasasrodrigues/)
 
-- ⚡ Fun fact: **Tea it's life 🍵**
+- ⚡ Fun fact: **I just like coding sometimes and drinking a lot of tea ( •̀ ω •́ )**
 
 <h3 align="left">⭐ Connect with me:</h3>
 
