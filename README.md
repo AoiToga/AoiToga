@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact: **I just like coding sometimes and drinking a lot of tea ( •̀ ω •́ )**
 
+- 🥽 I'm passionate by VR-Tech, Oculus, etc.
+
 <br/>
 <p><img display="block" width="90" height="90"; src="https://media.discordapp.net/attachments/809593485728022549/1303359299329855530/rabbit.png?ex=672b7770&is=672a25f0&hm=e009ddf6516aa750a203a6477bc6132b34eb46d180941aa1b9619bf523b5a7dc&=&format=webp&quality=lossless&width=460&height=460"          alt="aoitoga" /></p>
 
