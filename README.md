@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning: **Python** & **CyberSecurity**
+- 🌱 I’m currently learning: **Ubuntu Server** & **Docker**
 
 - 🤔 I’m looking for help with: **Back-end development & any tools that might be helpful**
 
-- ⚡ Fun fact: **I just like coding sometimes and drinking a lot of tea ( •̀ ω •́ )**
+- ⚡ Fun fact: **I just like drinking a lot of tea ( •̀ ω •́ )**
 
-- 🥽 I'm passionate by VR-Tech, Oculus, etc.
+- 🥽 I'm passionate by VR-Tech, Oculus Meta, etc.
 
 <br/>
 <p><img display="block" width="90" height="90"; src="https://media.discordapp.net/attachments/809593485728022549/1303359299329855530/rabbit.png?ex=672b7770&is=672a25f0&hm=e009ddf6516aa750a203a6477bc6132b34eb46d180941aa1b9619bf523b5a7dc&=&format=webp&quality=lossless&width=460&height=460"          alt="aoitoga" /></p>
