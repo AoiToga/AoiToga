@@ -3,9 +3,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning: **Linux Stuff** & **Network**
+- 🌱 I’m currently learning: **Linux** & **Electronic Nerd stuff**
 
-- 🤔 I’m looking for help with: **Back-end development & any tools that might be helpful**
+- 🤔 I’m looking for help with: **Any tools and tips that might be helpful with my learning process**
 
 - ⚡ Fun fact: **I just like drinking a lot of tea and draw at free time 👍**
 
